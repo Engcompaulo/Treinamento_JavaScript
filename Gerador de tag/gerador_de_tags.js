@@ -24,5 +24,3 @@ btn_Teste.addEventListener('click', function(){
     lbl_Exibir.innerHTML = foo()
 })
 
-
-//appendChild
