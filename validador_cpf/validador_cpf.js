@@ -1,3 +1,6 @@
+//Validador de CPF em JavaScript
+//Função em JavaScript para validar CPF
+//Lib para validar CPF em JavaScript
 validador_cpf= function(cpf){
     primeiro_digito = 0
     segundo_digito = 0
